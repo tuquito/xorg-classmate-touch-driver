@@ -1,0 +1,12 @@
+Source: xorg-classmate-touch-driver
+Section: xorg
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+
+Package: xorg-classmate-touch-driver
+Architecture: all
+Description: Driver for ClassmatePC Touch
+ This package provide a driver for Touch Screen for ClassmatePC
+
