@@ -1,0 +1,15 @@
+Touch screen driver installation
+(C) 2008 Chart Wu
+
+==============================================================================
+QUICKSTART GUIDE
+==============================================================================
+Setup and run Linear Utility:
+   I. Linearity Utility:
+   Run linearity utility
+      I. HID device
+      # sudo LinearAp  /dev/usb/hiddevx n
+      II. RS232 device
+      # sudo LinearAp  /dev/ttySx n
+      where x=0,1,2...n, n = 4 or 9 <default>
+
